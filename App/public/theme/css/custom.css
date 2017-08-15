@@ -1,0 +1,10 @@
+.btn-transparent{
+    display: inline-block;
+    width: 100px;
+    padding: 3px;
+    color: #fff;
+    border: 1px solid #fff;
+    text-align: center;
+    outline: none;
+    text-decoration: none;
+}
